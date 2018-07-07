@@ -1,1 +1,1 @@
-# FreeCodeCamp-Javascript-Algorithm-Scripting
+# freeCodeCamp Basic Algorithm Scripting Challenges
